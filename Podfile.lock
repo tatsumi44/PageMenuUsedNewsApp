@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (4.7.1)
+  - PageMenu (2.0.0)
+  - PKHUD (5.0.0)
+  - SwiftDate (4.5.1)
+  - SwiftyJSON (4.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - PageMenu
+  - PKHUD (~> 5.0)
+  - SwiftDate
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 68d7d521118d49c615a8d2214d87cdf525599d30
+  PageMenu: 9c38fd7e0d9ef4b1408320f55bb907bbc0e538dc
+  PKHUD: 3c001512c6e002091184197a8de7a20420786e3b
+  SwiftDate: 7b56d42a221f582047287deb256b23fc5ed49a60
+  SwiftyJSON: 070dabdcb1beb81b247c65ffa3a79dbbfb3b48aa
+
+PODFILE CHECKSUM: 2586e15ed78f8cd81a6153d18b10585fa237524c
+
+COCOAPODS: 1.4.0
